@@ -1,5 +1,5 @@
 ---
-teaser: /images/Retroverse_thumbnail.jpg
+teaser: /images/Retroverse_thumbnail.png
 title: "Retroverse: Envisioning combined physical fitness and embodied learning"
 collection: publications
 category: conferences
