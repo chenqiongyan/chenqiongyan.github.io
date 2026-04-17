@@ -2,7 +2,7 @@
 teaser: /images/Memory_thumbnail.jpg
 title: "Retroverse: Envisioning combined physical fitness and embodied learning"
 collection: publications
-category: chapter
+category: conferences
 permalink: /publication/2023-12-15-paper-title-number-3
 excerpt: null
 date: 2023-12-15
